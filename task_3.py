@@ -13,7 +13,5 @@ z = np.sin(x * y)
 
 # вывод на экран
 ax.plot3D(x, y, z, 'green')
-ax.set_title('3D line plot geeks for geeks')
+ax.set_title('3D chart
 plt.show()
-
-
