@@ -1,3 +1,4 @@
+# Vasilev Kirill, ISU: 367964, group: R3135, variant: 4
 import pandas as pd
 import matplotlib.pyplot as plt
 
