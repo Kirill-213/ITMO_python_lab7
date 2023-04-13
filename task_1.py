@@ -1,3 +1,4 @@
+# Vasilev Kirill, ISU: 367964, group: R3135. variant: 4
 import numpy as np
 import random
 from time import perf_counter
